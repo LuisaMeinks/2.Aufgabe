@@ -8,6 +8,5 @@ Diese App ist ein einfaches Quiz mit drei Fragen zur deutschen Geschichte. Die N
 - Punktestand-Anzeige
 - Quiz-Ende mit Zusammenfassung
 
-## Installation
-Lade die APK-Datei [hier](./quizapp.apk) herunter und installiere sie auf einem Android-Gerät.
+
 
